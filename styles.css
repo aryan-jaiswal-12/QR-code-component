@@ -24,11 +24,13 @@ body {
 h3 {
     color: hsl(218, 44%, 22%);
     font-size: 18px;
+    font-weight: 700;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
+    font-weight: 400s;
 }
 
 .content {
